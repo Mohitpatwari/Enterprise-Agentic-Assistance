@@ -1,6 +1,6 @@
 # Enterprise Agentic RAG (Scalable Pipeline)
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-ffc107?style=for-the-badge)](https://mohit444-enterprise-rag-assistance)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-ffc107?style=for-the-badge)](https://huggingface.co/spaces/mohit444/Enterprise_RAG_ASSISTANCE)
 
 A production-grade, enterprise-level RAG system built with **LangGraph**, **Portkey LLM Gateway**, and **Gemini Embeddings**. The system distinguishes between technical "True Data" and random "Noisy Data" using semantic re-ranking, history-aware planning, and NeMo Guardrails for input/output safety.
 
